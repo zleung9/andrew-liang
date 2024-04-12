@@ -1,36 +1,26 @@
----
-title: 'Popcorn Brain'
-date: 2024-04-09T16:15:47-07:00
-draft: false
-tags: ["aaa"]
-categories: ["bbb"]
----
++++
+title = '爆米花大脑和刷手机'
+date = 2024-04-12T08:00:44-07:00
+draft = false
+tags = ["Brain", "TimeManagement", "EnergyManagement"]
+categories = ["中文"]
+author = "LZ"
++++
 
+最近听到一个词叫爆米花大脑， 用来形容由于长时间上网而导致过度刺激，引起大脑神经电路"爆裂"的感觉。"爆米花大脑"这个概念是由心理学家Dr. Levy提出的， 与简单的网络成瘾不同，爆米花大脑在现代生活中无处不在，尤其是当人们感到压力或焦虑时更为常见。
 
-# 引子
-- I've got a chance to rest for a couple of weeks without working.  Not engaged with too many things. Get up early and do exercise.
-- I've also figured out a few things. 
-# 我的大脑成了一个“popcorn brain”
-## My brain is overloaded. 
-- 我总是不自觉地去做很多事情，包括我自己的工作，我自己的兴趣。我的大脑总是处于一个紧绷的状态。在这种状态下，很多行为都是自动的，你来不及思考它背后的意义，甚至它是否值得去做。仅仅是一瞬间觉得这个事情有会给你带来一种潜在的收益，做了很多无意的事情。同时做着两件事情。注意力涣散，甚至上瘾，不去听个什么东西，浑身不自在。
-- 最累的不是做事情本身，而是不做的时候你还在想着它。
-- 收集的内容越来越多，但是深度思考却越来越少。
-- 记录了自己的时间，发现了刷短视频的奥秘。在思考遇到卡顿的时候，在不知道要做什么的时候，和在开始做一件不太想做的事情之前。或者是完成一项艰巨任务之后。是刷短视频的高发期。短视频不是问题，是我的大脑为了解决其它问题而采取的方法。它可以是缓冲，排解无聊，拖延的好工具，或者是一种奖励。
+正如哈佛大学医生Aditi Nerurkar所解释的那样，人们不断滚动浏览信息的冲动，本质上是一种由于进化的缘故而根植于人类基因中的扫视危险的本能，这一本能主要由大脑中的杏仁核主导。只不过，现代人已将扫视的对象从物理环境转移到了手机、社交媒体等数字内容上。受这种原始的扫视危险的冲动驱使，过度接触数字信息就会导致精神过度刺激和注意力分散，造成所谓的"爆米花大脑"状态。
 
-## 对信息的无条件接受，让我们的大脑变成了popcorn brain
+最近休息了一段时间，我才意识到之前我的大脑似乎总是处于一种紧绷状态。收集的信息越来越多，深度思考越来越少；工作时间排得满满当当，大多数时候只是在重复一些既定的行为模式，谈不上高效率，也没有很多创造性的思考。注意力经常涣散，如果在思考时产生短暂的卡顿，就会控制不住地打开手机刷起短视频、新闻等。
 
-# 什么是popcorn brain
-The concept of "popcorn brain" is a term coined by psychologist Dr. Levy to describe the sensation of brain circuitry "popping" due to overstimulation from excessive time spent online. Different from internet addiction, popcorn brain is ubiquitous in modern life, especially when people feel stressed. The constant need to scroll through information is compared to the evolutionary role of a night watch person scanning for danger.
-# popcorn brain是成因：杏仁核。
-As suggested by Dr. Aditi Nerurkar this instinctive behavior to scan for danger is deeply ingrained in human biology, specifically in the amygdala, a region of the brain involved in processing emotions and detecting threats. In modern times, when people feel stressed or anxious, they may subconsciously engage in behaviors that mimic the role of the night watch person, seeking a sense of safety and control by constantly scanning for new information.
-However, instead of scanning the physical environment, people now turn to their phones and scroll through social media feeds, news articles, and other digital content. This behavior, driven by the "primal urge" to scan for danger, can lead to the development of "popcorn brain" – a state of mental overstimulation and distraction caused by excessive exposure to digital information.
-# 如何避免popcorn brain?
-- 很流行的方法都是术的层面，没有涉及本质。set boundary: time boundary, geological boundary, and logical boundary 
-- 停下来。给自己放个假。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。
-	- 去触及那个一直想去做却没有去做的事情。
-- 做减法。
-	- 想清楚最重要的事情：身体，家人，心态平和。
+和好友聊到这个话题，他说我们用忙碌来填充无意义工作带来的空虚感，这种忙碌的状态给我们一种高效的错觉。实际上，如《深度工作》一书中提到的，真正重要的是把有限的注意力集中在关键任务上，而非简单地填满时间。这本书提到了"固定日程生产力"的方法，就是将工作内容与时间期限分离开，避免简单地将工作时间等同于工作完成的多少。有时候严格地限制工作时间反而会取得意想不到的效果。
+  
+如何拯救被忙碌和信息洪流毁掉的”爆米花大脑“？通过这段时间的休息，我逐步找到了一些应对之策:
 
-- 
-让读者眼前一亮，但又不是网络上的那种说教的思考。我只想让我的朋友知道我平时脑子里在想什么。 所以就不要纠结于写成什么样子吧。就这么去写就好。
-展示自己，对结果不要抱有期待。我在人前还是很友好的。
+第一步是真正暂时抽离，放下手头的一切工作和烦扰，给自己一段安静独处的时光。正如中国古语所说"知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得"。只有先学会停下来，远离纷扰，才能开始审视内心，找到真正重要的事物。
+
+第二步是做减法，剔除生活中那些不太重要的人和事。对我而言，最重要的是自身的身体健康(其中包括大脑)、与家人朋友的感情联系。很多表面上维系的人际弱联接和害怕错过的信息源，大部分的时间只是在消耗注意力，可以适当的抛弃。我尝试把邮箱里未读的几十封Newsletter统统删掉，第一次感受到前所未有的清爽与轻松。关于弱联接，还有一句话十分受用：不要想着通过强连接来提升自己，或者通过弱连接来证明自己。很多社交上的心累，就是因为过于在意别人对你的看法。
+
+第三步是建立界限，去掉导致不当行为的诱因(Prompt)。心理学家BJ福格提出了影响行为的"福格行为模型":B=MAP，其中B是Behavior(行为)，M是Motivation(动机)，A是Ability(能力)，P是Prompt(诱因)。刷手机只需要动动手指，而我们的动机往往以很高，所以一个有效的方法就是去除诱因。为了去掉那些可能诱发分心行为的诱因，我清理了微信上的朋友圈，只选择性关注少数人的朋友圈，我静音了全部消息，包括个人和群组，并把大部分群组都移到了隐藏组里。我给手机设置了晚上10点到早上8点之间是downtime，没有消息提示，并且所以的消息类应用在这期间都无法使用。
+
+然后我发现，整个世界都清静了。原来主动截断信息并不会让你错过重要的事情，反而让你可以静下来，仔细想想哪些信息和人际关系是重要的。”静而后能安，安而后能虑“，我开始想如何去主动获取少数的重要的信息。这种掌控感很棒。
