@@ -2,6 +2,10 @@
     path = themes/even
     url = git@github.com:zleung9/hugo-theme-even.git
 
+[submodule "themes/anatole"]
+    path = themes/anatole
+    url = git@github.com:zleung9/anatole.git
+
 [submodule "themes/poison"]
     path = themes/poison
     url = git@github.com:lukeorth/poison.git
